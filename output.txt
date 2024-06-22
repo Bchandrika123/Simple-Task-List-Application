@@ -1,0 +1,67 @@
+1. Add task
+2. Remove task
+3. Lists tasks
+4. Exit
+Enter your choice: 
+1
+Enter task: 
+Wriring
+
+1. Add task
+2. Remove task
+3. Lists tasks
+4. Exit
+Enter your choice: 
+1
+Enter task: 
+Playing
+
+1. Add task
+2. Remove task
+3. Lists tasks
+4. Exit
+Enter your choice: 
+1
+Enter task: 
+Working
+
+1. Add task
+2. Remove task
+3. Lists tasks
+4. Exit
+Enter your choice: 
+3
+1.Wriring
+2. Playing
+3. Working
+
+1. Add task
+2. Remove task
+3. Lists tasks
+4. Exit
+Enter your choice: 
+2
+
+1. Wriring
+2. Playing
+3. Working
+Enter task number to remove: 
+2
+
+1. Add task
+2. Remove task
+3. Lists tasks
+4.. Exit
+Enter your choice: 
+3
+
+1. Wriring
+2. Working
+1. Add task
+2. Remove task
+3. Lists tasks
+4. Exit
+Enter your choice: 
+4
+
+Exiting program
